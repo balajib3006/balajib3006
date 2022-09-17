@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi! 👋 This is Balaji
 
 <!--
 **scamanderoffl/scamanderoffl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 👀 I'm looking for a job in my domain. And I'm interested in PCB
+  designing
+- 🎓 I'm a Final Year ECE student
+- 🌱 Now I'm working in IBM NALAIYA THIRAN program
+- 📫 Anyone can reach through my LinkedIn. Here is my contact URL... 
+  https://www.linkedin.com/in/balajib300602
