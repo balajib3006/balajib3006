@@ -1,7 +1,7 @@
 ### Hi! 👋 This is Balaji
 
 <!--
-**scamanderoffl/scamanderoffl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**balajib3006/balajib3006** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -15,8 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 👀 I'm looking for a job in my domain. And I'm interested in PCB
-  designing
-- 🎓 I'm a Final Year ECE student
-- 📫 Anyone can reach through my LinkedIn. Here is my contact URL... 
-  https://www.linkedin.com/in/balajib300602
+- 🔭 I’m currently working as Associate Engineer
+- 🌱 I’m currently learning a Radio Frequency Design
+- 📫 Anyone can reach through my LinkedIn. Here is my contact URL https://www.linkedin.com/in/balajib300602
